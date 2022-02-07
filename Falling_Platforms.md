@@ -14,3 +14,13 @@ The reason why we would want to change the body type from dynamic to kinematic a
 - The Dynamic body type affects by all the forces that act on it.
 
 You can also add the ‘Game Over’ feature if the player falls to the ground and nowhere along with the platform. Refer to the Game Over section to implement this feature.
+
+---
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+</aside>
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+
+---
