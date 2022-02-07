@@ -1,0 +1,6 @@
+# 1. Camera Following The Player
+
+In any type of game where the camera is projecting the scene for the user, as the player moves, we need to make a design such that the scene is visible for the required range of view of the user rather than keeping the camera view of the scene static which will make the user who is watching the screen lose their player object in-game as the player keeps moving out of the range of view. As such, as we learnt that the camera is also actually a GameObject, it can be manipulated just as any other GameObject in Unity is treated and can be worked on in a similar manner. Two such ways how the camera can be kept moving along with the player object in-game is:
+
+- Attach the camera GameObject to the Player Object, as we know Unity works using a parent-child hierarchy relationship of Objects, so any child object attached to a parent object keeps moving as well when the parent object moves, for example, as shown in the image below, the Main Camera is attached to the player object for a 2D platformer game
+
