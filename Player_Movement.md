@@ -7,4 +7,16 @@ Player Movement can be achieved in different ways in unity, depending on the spe
 
 Understanding these different types of forces can be important to shaping the structure of the game as movement is probably the basic feature of any game. For example, the following code shows how a jump action that propels the object upward based on ‘space’ key input from the keyboard can be made to work by applying a velocity change to the Rigidbody component attached to the Player GameObject.
 
+![Velocity_Jump](https://user-images.githubusercontent.com/44625252/152804627-d0824397-b20b-470c-acb0-53c6a54ac500.PNG)
+
 For this game, since this is a 2D platformer, you can use Transform.position changes along with the Axes (Horizontal, Vertical) to create the movement of the Player every frame, and Rigidbody velocity changes for the jump.
+
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+
+</aside>
+
+![discord](./Images/discord.png)
+
+---
