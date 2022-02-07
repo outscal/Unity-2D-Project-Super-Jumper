@@ -7,3 +7,13 @@ In any type of game where the camera is projecting the scene for the user, as th
 ![parent_child_attach](https://user-images.githubusercontent.com/44625252/152809953-9df7e275-87a7-4f89-9efb-d579daf6e936.PNG)
 
 - Create a script Component for the Camera Object that can be made to change its position based on movement changes of the Player GameObject by using a variable in the inspector that takes the Player object as a parameter or by finding the PlayerObject in-game using GameObject.Find.
+
+---
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+</aside>
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+
+---
