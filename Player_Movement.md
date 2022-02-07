@@ -17,8 +17,5 @@ For this game, since this is a 2D platformer, you can use Transform.position cha
 
 </aside>
 
-![discord](./Images/discord.png)
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152804959-6ba3e723-faa4-412f-8363-95a24f3a63e5.png)
-
+![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
 
