@@ -1,4 +1,4 @@
-# 13. Game Loop/Levels/GamePlay
+# Game Loop/Levels/GamePlay
 
 - Super Jumper is a level-based game. Every level will have its own complexity and toughness. As of now, we would suggest a 3 level architecture that we can add to this project but of course, you are free to design more levels as you wish to. Every level that has been completed will unlock a new feature for the player that will help the player in completing the further levels. Every level completed will show a “Level completed” text/panel and will also be displaying which ability has been unlocked for the player.
 - Level 1: This will be a basic level that will allow the user to explore the level and play around with and as it is the very first level the difficulty level will be minimal 😜. Some enemies will be added in the very first level to make it a little challenging for the player, please feel free to design the level as you like with enemies and static platforms
