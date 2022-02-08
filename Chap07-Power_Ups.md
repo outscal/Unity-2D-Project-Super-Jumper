@@ -1,4 +1,4 @@
-# 7. Power-Ups
+# Power-Ups
 
 If you want to make your game interesting then add the feature of Power-ups and Collectibles. Power-ups are nothing but collecting items or points which will give the player a special ability. The ability could be anything- double jump, dash, or some attacks. 
 
