@@ -1,4 +1,4 @@
-# 9. Patrolling Enemies
+# Patrolling Enemies
 
 Basically, there are 2 ways of making enemies patrol in a specific area.
 
