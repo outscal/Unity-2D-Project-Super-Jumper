@@ -1,4 +1,4 @@
-# 5. Level Complete
+# Level Complete
 
 Let's discuss how to conclude whether a level has been completed or not. Basically, there are 2 conditions when a level is marked completed:
     1. When the player has reached the end of the level, a trigger is fired to let the player know that the level has been completed, and then the player is redirected to the next level. 
