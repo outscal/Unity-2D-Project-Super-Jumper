@@ -1,4 +1,4 @@
-# 10. UI Basics
+# UI Basics
 
 - What is a UI???
     
