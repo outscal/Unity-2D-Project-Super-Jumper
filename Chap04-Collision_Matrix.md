@@ -1,4 +1,4 @@
-# 4. Collision Matrix
+# Collision Matrix
 
 Finally, another condition may arise when we might want collisions for the GameObjects but maybe not collide with specific objects. For example, we might want enemies to pass through each other but the Player should collide with them.
 
