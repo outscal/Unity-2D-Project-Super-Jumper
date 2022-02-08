@@ -1,4 +1,4 @@
-# 3. Collision Detection
+# Collision Detection
 
 Collision detection helps in the application of physics to the objects in Unity so that they behave like real-world objects inside the game, for example, when the player touches a wall or platform they should get stuck and the player shouldn’t be able to pass through it (a typical game where the user controls a player but of course, if your game requires objects to pass through each other, this can be implemented as well). In a 2D game, any GameObject can have a collider component attached to it like a Box Collider 2D that helps in detecting collisions among objects that would have their boundaries in a rectangular shape.
 
