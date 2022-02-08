@@ -1,4 +1,4 @@
-# 12. Level Lock/Unlock and PlayerPrefs
+# Level Lock/Unlock and PlayerPrefs
 
 PlayerPrefs: In order to save the game progress, Unity provides something called “Player Preferences” or ‘PlayerPrefs’ in short. This is a class that stores Player preferences between game sessions. What this means is, say you exit from the game today and re-open it tomorrow, it should be able to save your session and start from where you left off and shouldn’t start from the beginning of the game, what we call as ‘SAVING’ in games. PlayerPrefs can store string, float and integer values into the user’s platform registry. The location of saving these values will depend on the type of platform being used as mentioned below.
 
