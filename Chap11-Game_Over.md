@@ -1,4 +1,4 @@
-# 11. Game Over
+# Game Over
 
 - Whenever our player is out of lives or we run out of time to complete a level we see a certain screen that tells us what exactly??? 🤔 That’s right it tells us that our game is over.
 - There’s a certain condition after which we lose our game or we can say that our game gets over. The condition can be anything we might run out of time or we might have come in contact of enemy or we might run out of lives.
