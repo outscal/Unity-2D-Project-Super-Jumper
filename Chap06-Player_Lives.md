@@ -1,4 +1,4 @@
-# 6. Player Lives
+# Player Lives
 
 - To create a Life system we need to do things, first one is the Sprite that we will be displayed on the screen for the user, the second is a controller which decreases a life whenever the player collides with an enemy or increase a life when the user collects a power-up that restores a lost life.
 - The very first step to creating a Life system is to start by creating a sprite that will be displayed on the screen for the player that will be indicating how many lives are remaining for the player.
