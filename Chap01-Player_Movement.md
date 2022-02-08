@@ -1,4 +1,4 @@
-# 1. Player Movement
+# Player Movement
 
 Player Movement can be achieved in different ways in unity, depending on the specific requirement, few are:
 - Changing Transform.position of the player every frame based on input direction, this process is usually best when no Rigidbody is there and the object simply needs to shift every frame, for eg, in the case of a top-down camera game like Snake
