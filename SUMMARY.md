@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Player Movement](README.md)
+* [Camera Following The Player](Chap02-Camera\_Following\_Player.md)
+* [Collision Detection](Chap03-Collision\_Detection.md)
+* [Collision Matrix](Chap04-Collision\_Matrix.md)
+* [Level Complete](Chap05-Level\_Complete.md)
+* [Player Lives](Chap06-Player\_Lives.md)
+* [Power-Ups](Chap07-Power\_Ups.md)
+* [Falling Platforms](Chap08-Falling\_Platforms.md)
+* [Patrolling Enemies](Chap09-Patrolling\_Enemies.md)
+* [UI Basics](Chap10-UI\_Basics.md)
+* [Game Over](Chap11-Game\_Over.md)
+* [Level Lock/Unlock and PlayerPrefs](Chap12-Level\_Lock\_Unlock\_Playerprefs.md)
+* [Game Loop/Levels/GamePlay](Chap13-Game\_Loop\_Levels\_GamePlay.md)
+* [Introduction](<README (1).md>)

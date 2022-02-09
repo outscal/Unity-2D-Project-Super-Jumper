@@ -1,3 +1,25 @@
-# Introduction
-This is a demo project in Unity 2D, with special character abilities
-Design a 2D Platformer in which a player has to combat enemies and conquer the challenges he would face to reach the goal and finish the level. Use different types of player mechanics to make the game appealing to the gamers such as double/triple jump, dash, and many more.
+# Player Movement
+
+Player Movement can be achieved in different ways in unity, depending on the specific requirement, few are:
+- Changing Transform.position of the player every frame based on input direction, this process is usually best when no Rigidbody is there and the object simply needs to shift every frame, for eg, in the case of a top-down camera game like Snake
+- Force - Applies a gradual force on the Object, taking mass into account. This is a literal pushing motion where the bigger the mass of the object, the slower it will speed up
+- Impulse - Applies an instant force on the Object, taking mass into account. This pushes the Object using the entire force in a single frame. Again, the bigger the mass of the object, the less effect this will have. Great for recoil or jump functions
+- Acceleration - Same as ForceMode.Force except that it doesn't take mass into account. No matter how big the mass of the object, it will accelerate at a constant rate
+- VelocityChange - Same as ForceMode.Impulse and again doesn't take mass into account. It will literally add the force to the Object's velocity in a single frame
+
+Understanding these different types of forces can be important to shaping the structure of the game as movement is probably the basic feature of any game. For example, the following code shows how a jump action that propels the object upward based on ‘space’ key input from the keyboard can be made to work by applying a velocity change to the Rigidbody component attached to the Player GameObject.
+
+![Velocity_Jump](https://user-images.githubusercontent.com/44625252/152804627-d0824397-b20b-470c-acb0-53c6a54ac500.PNG)
+
+For this game, since this is a 2D platformer, you can use Transform.position changes along with the Axes (Horizontal, Vertical) to create the movement of the Player every frame, and Rigidbody velocity changes for the jump.
+
+---
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+
+</aside>
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+
+---
