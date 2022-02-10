@@ -20,4 +20,4 @@ This will be a comprehensive guide, so hold your horses and try to implement eve
 
 The first part of any game is of course moving the player object, you will learn how to do that in the next chapter.
 
-https://media.giphy.com/media/Exo6vvyrL1Q2OECYIV/giphy.gif
+![](https://media.giphy.com/media/Exo6vvyrL1Q2OECYIV/giphy.gif)
