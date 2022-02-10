@@ -1,5 +1,9 @@
 # Patrolling Enemies
 
+Oopppsss!! Have you ever made any enemies?? Lol!! Don't ever make enemies. Make Friends!! But in games we love enemies.. haha fighting against the enemies feels amazing and we will implement enemy behaviours here... 😈 
+
+![Enemy in Games](https://media.giphy.com/media/TgOOIJcXlQ0h7tGQKX/giphy.gif)
+
 Basically, there are 2 ways of making enemies patrol in a specific area.
 
   1. Using waypoints: we can set waypoints and make the game object travel within those waypoints. Below is a piece of code for further reference.
@@ -14,12 +18,5 @@ Basically, there are 2 ways of making enemies patrol in a specific area.
 
   In the above code, RaycastHit2D returns information about an object detected by a raycast in 2D physics. The RaycastHit2D class is used by Physics2D.Raycast and other functions to return information about the objects detected within the range fired by raycasts. 👾
 
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
 
 ---

@@ -19,7 +19,7 @@ You can add tons of features here like, after collecting the item enabling the d
 
 Refer to the clip below to get an idea of what to implement
 
-https://user-images.githubusercontent.com/44625252/152814614-4b70dd44-87a4-4ff9-b0eb-26bf7936814f.mp4
+![double jump video](./gifs/doubleJump.gif)
 
 Here, after getting the red game object, which is a collectable item here, the player(black square object) could move much higher and enabled the double jump ability for 5 secs. Also, observe the timer on the top-right. That’s what you have to implement and of course, go beyond this project with your imagination and implement as many as cool features you want to.  
 
@@ -74,6 +74,17 @@ And Finally applying the impulse force in physics for the RigidBody:
 
 Of course, it would also be great if a collectable is implemented upon picking up which, the player would get the ability to dash. The Cooldown time should also be set as such so that it cannot be used continuously rather only after a certain amount of time, after having used it once. In the above script, we have demonstrated that to be 2 seconds, but you should set this as required by your game. The below video shows a quick animation of how this has been implemented for a 2D platformer game : 
 
-https://user-images.githubusercontent.com/44625252/152815901-90c46a47-85f9-4332-9e8d-ed00c798f2d7.mp4
+![Video](./gifs/video1.gif)
 
 As shown above, you can see the Player dashes as soon as ‘LShift’ key is input. It would be an additional achievement if you can use a particle system or any other way to show a trailing effect when the dash happens. Remember to lock the dash ability at the start, but only activate it once a collectable/item has been picked up.
+
+
+## Wrapping Up
+   
+We covered a lot in this one. Feel free to take a breather over here.
+
+Maybe share your progress with the world via LinkedIn & Twitter?
+
+Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
+
+![Make your voice heard!!](https://media.giphy.com/media/p5prNWu4HTgISuounZ/giphy.gif)

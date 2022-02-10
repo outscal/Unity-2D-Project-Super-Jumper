@@ -1,6 +1,10 @@
 # Level Lock/Unlock and PlayerPrefs
 
-PlayerPrefs: In order to save the game progress, Unity provides something called “Player Preferences” or ‘PlayerPrefs’ in short. This is a class that stores Player preferences between game sessions. What this means is, say you exit from the game today and re-open it tomorrow, it should be able to save your session and start from where you left off and shouldn’t start from the beginning of the game, what we call as ‘SAVING’ in games. PlayerPrefs can store string, float and integer values into the user’s platform registry. The location of saving these values will depend on the type of platform being used as mentioned below.
+PlayerPrefs: In order to save the game progress, Unity provides something called “Player Preferences” or ‘PlayerPrefs’ in short. This is a class that stores Player preferences between game sessions. What this means is, say you exit from the game today and re-open it tomorrow, it should be able to save your session and start from where you left off and shouldn’t start from the beginning of the game, what we call as ‘SAVING’ in games.
+
+![save it](https://media.giphy.com/media/t7tP1DI6XfYJFMZZ94/giphy.gif)
+
+PlayerPrefs can store string, float and integer values into the user’s platform registry. The location of saving these values will depend on the type of platform being used as mentioned below.
 
 ### **Standalone Player storage location**
 
@@ -71,13 +75,16 @@ Now, you can come inside the storage location and delete the values manually if 
 ![ClearAllPrefs](https://user-images.githubusercontent.com/44625252/152819777-a39cdf22-66fb-48b8-8e7b-786f96461e53.png)
 
 ---
-<aside>
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
+## Wrapping Up
+   
+We covered a lot in this one. Feel free to take a breather over here.
 
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+Maybe share your progress with the world via LinkedIn & Twitter?
 
----
+Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
+
+![feels amazing](https://media.giphy.com/media/iJzUIm93RqJlCfoYn0/giphy.gif)
+
 
 
