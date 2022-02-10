@@ -20,7 +20,7 @@ Well, now you are well equipped to start thinking on other types of game impleme
 
 You can also go through our other courses here - [Courses](https://academy.outscal.com/welcome)
 
-We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)? 
+We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
 
 Have fun learning and making cool games, remember you are only limited by your imaginations.
 
