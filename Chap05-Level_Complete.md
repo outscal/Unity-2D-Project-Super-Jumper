@@ -1,5 +1,12 @@
 # Level Complete
 
+Oh what a great it was after completing a level in Mario!!! 😎🤩
+    <br>
+
+![level_complete](https://media.giphy.com/media/dw4sZ2h4aXASKAEXY8/giphy.gif)
+
+Ever wondered what happens in the background that concludes that the level has been completed.
+
 Let's discuss how to conclude whether a level has been completed or not. Basically, there are 2 conditions when a level is marked completed:
     1. When the player has reached the end of the level, a trigger is fired to let the player know that the level has been completed, and then the player is redirected to the next level. 
         a. We are able to achieve this through detection of collision and trigger used to detect collision.
@@ -19,13 +26,3 @@ In the above video, a collider has been added to the door and the Is Trigger com
 https://user-images.githubusercontent.com/44625252/152813394-e61032e6-c46e-4bfc-bb8a-e4cbbdd75f2a.mp4
 
 In the above sample video, we keep a track of the number of collectables we need in order for the level to get complete. Once we have collected all the stuff we can see a level complete screen pops up at the end of the video 😎
-
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
-
----
