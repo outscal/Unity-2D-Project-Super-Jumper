@@ -28,6 +28,6 @@ Understanding these different types of forces can be important to shaping the st
 
 For this game, since this is a 2D platformer, you can use Transform.position changes along with the Axes (Horizontal, Vertical) to create the movement of the Player every frame, and Rigidbody velocity changes for the jump.
 
-Want more? Head on to the next chapter. 
+Want more? Head on to the next chapter. ..
 
 ![](https://media.giphy.com/media/1gUWdf8Z8HCxpM8cUR/giphy.gif)
