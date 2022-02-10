@@ -1,5 +1,11 @@
 # Player Lives
 
+Oh great you've made it so far!! 😎🤩
+Whoa this topic looks pretty interesting. Here we will be implementing the lives system similar to the one we have in Contra!!!! 🔫
+  <br>
+
+![Life_system](https://media.giphy.com/media/MFPEY2iT4D370VCRHO/giphy.gif)
+
 - To create a Life system we need to do things, first one is the Sprite that we will be displayed on the screen for the user, the second is a controller which decreases a life whenever the player collides with an enemy or increase a life when the user collects a power-up that restores a lost life.
 - The very first step to creating a Life system is to start by creating a sprite that will be displayed on the screen for the player that will be indicating how many lives are remaining for the player.
 
@@ -17,12 +23,3 @@
 
 https://user-images.githubusercontent.com/44625252/152814148-b1c2369a-f78e-4afb-b0c8-4f79f18625ad.mp4
 
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
-
----
