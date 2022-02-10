@@ -19,7 +19,7 @@ You can add tons of features here like, after collecting the item enabling the d
 
 Refer to the clip below to get an idea of what to implement
 
-https://user-images.githubusercontent.com/44625252/152814614-4b70dd44-87a4-4ff9-b0eb-26bf7936814f.mp4
+![Power_up](https://user-images.githubusercontent.com/54135921/153478855-709204dd-8719-4a84-ad6b-523a7e2db5fa.gif)
 
 Here, after getting the red game object, which is a collectable item here, the player(black square object) could move much higher and enabled the double jump ability for 5 secs. Also, observe the timer on the top-right. That’s what you have to implement and of course, go beyond this project with your imagination and implement as many as cool features you want to.  
 
