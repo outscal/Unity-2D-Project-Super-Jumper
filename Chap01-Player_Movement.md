@@ -12,7 +12,7 @@ Download the asset, and drag and drop to Unity Projects folder. A good idea is t
 
 ![](https://media.giphy.com/media/mBukxOCWsdVAXIJUUW/giphy.gif)
 
-One assets are loaded in Unity, we can try to create the movement for the player.
+Once assets are loaded in Unity, we can try to create the movement for the player.
 
 Player Movement can be achieved in different ways in unity, depending on the specific requirement, few are:
 
