@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Player Movement](README.md)
+* [Player Movement](Chap01-Player_Movement.md)
 * [Camera Following The Player](Chap02-Camera\_Following\_Player.md)
 * [Collision Detection](Chap03-Collision\_Detection.md)
 * [Collision Matrix](Chap04-Collision\_Matrix.md)
