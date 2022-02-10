@@ -14,7 +14,7 @@ So, fasten your seatbelts and let's get ready.
 
 ![](https://media.giphy.com/media/9G54QEVzMnsnXyPVLW/giphy.gif)
 
-This will be a comprehensive guide, so hold your horses and try to implement every concept that you have learned in the Getting Started with Unity. If you have not gone through this course, we highly recommend you to do that first before jumping onto this project here - [Getting Started with Unity](https://academy.outscal.com/getting-started-with-unity)
+This will be a comprehensive guide, so hold your horses and try to implement every concept that you have learned in the Getting Started with Unity. If you have not gone through this course, I highly recommend you to do that first before jumping onto this project here - [Getting Started with Unity](https://academy.outscal.com/getting-started-with-unity)
 
 ![](https://media.giphy.com/media/Db0wfJKA9S4PjnODqB/giphy.gif)
 
