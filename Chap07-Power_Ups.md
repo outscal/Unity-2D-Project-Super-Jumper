@@ -1,5 +1,10 @@
 # Power-Ups
 
+What makes a game interesting to play???🤔🤔 is it the story?? maybe, is it the player??? not so much, it is the game power ups that make the game more interesting, because they are in the favour of player which hypes up the users very much more 😍😍
+    <br>
+    
+![power_up](https://media.giphy.com/media/Ri9WBdFdDVEpVUfE07/giphy.gif)
+
 If you want to make your game interesting then add the feature of Power-ups and Collectibles. Power-ups are nothing but collecting items or points which will give the player a special ability. The ability could be anything- double jump, dash, or some attacks. 
 
 Here, you will learn how to implement Power-Ups or Collectibles.
@@ -72,13 +77,3 @@ Of course, it would also be great if a collectable is implemented upon picking u
 https://user-images.githubusercontent.com/44625252/152815901-90c46a47-85f9-4332-9e8d-ed00c798f2d7.mp4
 
 As shown above, you can see the Player dashes as soon as ‘LShift’ key is input. It would be an additional achievement if you can use a particle system or any other way to show a trailing effect when the dash happens. Remember to lock the dash ability at the start, but only activate it once a collectable/item has been picked up.
-
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
-
----
