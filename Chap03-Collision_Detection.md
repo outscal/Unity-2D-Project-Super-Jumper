@@ -1,5 +1,12 @@
 # Collision Detection
 
+Ever wondered how a car flips in GTA once you dash into another car?? 🤔🤔 That's where Colliders come in action.
+Using colliders we are able to perform collision detection.
+
+  <br>
+
+![collision](https://media.giphy.com/media/xTiTnzwJoXpg7gdONy/giphy.gif)
+
 Collision detection helps in the application of physics to the objects in Unity so that they behave like real-world objects inside the game, for example, when the player touches a wall or platform they should get stuck and the player shouldn’t be able to pass through it (a typical game where the user controls a player but of course, if your game requires objects to pass through each other, this can be implemented as well). In a 2D game, any GameObject can have a collider component attached to it like a Box Collider 2D that helps in detecting collisions among objects that would have their boundaries in a rectangular shape.
 
 ![boxCollider2d](https://user-images.githubusercontent.com/44625252/152811074-2b0fd11f-770c-44e9-8766-ab0f9415e254.PNG)
@@ -37,14 +44,3 @@ For such items, similar functionality can be applied to detect collision between
 **Trigger/Collision for Level End Condition** – At the end of a level, a level-win condition is required to be provided. This condition would be responsible for either completing the game or starting the next level. For example, in Super Mario, we see 8 Areas/levels that Mario needs to be complete in order to finish the game. Hence, this would also need to be setup as a Trigger or Collider as required. When the player enters the trigger area, a function can be triggered that does the work of starting a new level and notifies the user that the current level/area/scene has been completed. For example, something like the Portal asset shown below can be used to trigger the level condition. It might be required that the player is shown as a layer on top of the portal or door, in which case a Trigger instead of a collision would be preferable.
 
 ![Door_end](https://user-images.githubusercontent.com/44625252/152811737-f697ef06-43dd-4c91-bbf6-666eec7d75b8.PNG)
-
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
-
----
-
