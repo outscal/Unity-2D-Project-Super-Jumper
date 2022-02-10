@@ -8,12 +8,3 @@ In such cases, a collision matrix can be used to uncheck collisions between spec
 
 ![collision_matrix](https://user-images.githubusercontent.com/44625252/152812499-2e923ec3-3cfa-4a6d-95d0-031fefc95f40.PNG)
 
----
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
-
----
