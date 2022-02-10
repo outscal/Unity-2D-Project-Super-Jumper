@@ -4,7 +4,6 @@ What is a UI???
     
 UI or User Interface is something which allows the User to interact with or to be specific with game development it is something that allows a Player to interact with. Unity UI is a UI toolkit for developing user interfaces for games and applications. It is a Game Object-based UI system that uses Components and the Game View to arrange, position, and style user interfaces.
 
-![user interface](https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif)
     
 ![UI_1](https://user-images.githubusercontent.com/44625252/152817533-adecc32e-c6b2-4aa8-8435-c7ed3eae803f.png)
     
