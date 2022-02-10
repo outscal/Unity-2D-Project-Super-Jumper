@@ -2,7 +2,7 @@
 
 So, where to start?
 
-![Where to Start](https://media.giphy.com/media/3o6nUQYm2psW3E1PLW/giphy.gif)
+![Where to Start](https://media.giphy.com/media/hrk1vT9WDNSAMZydLf/giphy.gif)
 
 First, you need to get the required assets for the game that you will be building. In this case, we just need one player gameObject at first. You can search for free online assets or the Unity Store as well which has got a rich list of free 2D and 3D assets.
 
