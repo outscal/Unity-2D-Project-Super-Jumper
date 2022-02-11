@@ -6,6 +6,7 @@ You have reached the end of this course. A job well done!!!
 
 ![](https://media.giphy.com/media/cjWqhifxgQBmXKTZlK/giphy.gif)
 
+Ohh I almost forgot, you just earned **20 Learning points**. Keep going to earn rewards. Do the following to secure them.
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know what you have built.
 
 Creating posts in LinkedIn and filling the form above will also make you eligible to win awesome goodies from Outscal.
