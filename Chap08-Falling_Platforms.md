@@ -4,7 +4,7 @@ More Features???😍 Yeahhhh 🔥
 
 You can add so many features to your game to make it challenging and engaging to the gamers. 
 
-[!Excited](https://media.giphy.com/media/o75ajIFH0QnQC3nCeD/giphy.gif)
+![Excited](https://media.giphy.com/media/o75ajIFH0QnQC3nCeD/giphy.gif)
 
 One such feature is the falling of a platform when the player jumps over it or stands on it. It’s not so tough to implement if you think logically. It is all about the physics mechanism that would require to make a game object (here, it is the ‘platform’) fall when the player stands on it. 
 
