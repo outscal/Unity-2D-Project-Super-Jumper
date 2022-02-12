@@ -6,7 +6,6 @@ You have reached the end of this course. A job well done!!!
 
 ![](https://media.giphy.com/media/cjWqhifxgQBmXKTZlK/giphy.gif)
 
-Creating posts in LinkedIn and filling the form above will also make you eligible to win awesome goodies from Outscal.
 
 ## What's next
 
