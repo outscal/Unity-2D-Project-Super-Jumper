@@ -21,3 +21,15 @@ This will be a comprehensive guide, so hold your horses and try to implement eve
 The first part of any game is of course moving the player object, you will learn how to do that in the next chapter.
 
 ![](https://media.giphy.com/media/Exo6vvyrL1Q2OECYIV/giphy.gif)
+
+## Earn Learning points to get more rewards 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+
+
+
+All clear? Let's Get Started
